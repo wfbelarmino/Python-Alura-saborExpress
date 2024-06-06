@@ -16,7 +16,6 @@ elif idade >= 18:
 else: 
     print("Valor inválido!")
 
-
 # 3 - Para fazer uma condicional que poderá verificar os valores de usuário e senha, você pode utilizar o seguinte código:
 usuario_correto = "alura"
 senha_correta = "alura123"
