@@ -20,7 +20,6 @@ def finalizar_app():
     os.system('cls')
     print ('Finalizando o app\n')
 
-
 def opcao_invalida():
     print('Opção Inválida!\n')
     input('Digite uma tecla para voltar ao menu principal')
