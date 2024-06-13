@@ -43,6 +43,7 @@ def escolher_opcao():
             opcao_invalida() 
     except:
         opcao_invalida()
+        
 
 def main():
     os.system('cls')
