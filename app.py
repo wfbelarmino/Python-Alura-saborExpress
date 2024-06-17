@@ -50,6 +50,16 @@ def cadastrar_novo_restaurante():
     voltar_ao_menu_principal()
 
 def listar_restaurantes():
+    '''Essa função é responsável por listar restaurantes
+    
+    Inputs:
+    - Nome do restaurante
+    - Categoria
+    
+    Output:
+    - Adiciona um novo restaurante à lista de restaurantes
+    
+    '''
     exibir_subtitulo('Listando restaurantes')
 
     print(f'{'Nome do restaurante'.ljust(22)} | {'Categoria'.ljust(20)} | Status')
